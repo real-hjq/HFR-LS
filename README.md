@@ -116,19 +116,9 @@ All subjective scores are provided with the dataset.
 ## 📂 Dataset Structure
 
     HFR-LS/
-    ├── source_videos/
-    ├── encoded_videos/
-    │   ├── 5Mbps_30fps/
-    │   ├── 5Mbps_60fps/
-    │   ├── ...
-    ├── subjective_scores/
-    │   ├── MOS.csv
-    │   ├── DMOS.csv
-    │   └── subject_raw_scores.csv
     ├── metadata/
-    │   ├── SI_TI.csv
-    │   └── content_info.csv
-    └── assets/
+        ├── SI_TI.csv
+        └── content_info.csv
         └── HFR-LS_samples.png
 
 ------------------------------------------------------------------------
