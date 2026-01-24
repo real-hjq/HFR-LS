@@ -144,7 +144,8 @@ All subjective scores are provided with the dataset.
 Dataset available at:
 
     https://github.com/real-hjq/HFR-LS
-
+Test videos: [Google Drive]()
+Reference videos: [Google Drive](https://drive.google.com/file/d/1KEj2mgn0RyfQrnstTyR_Pf34SB89kfuS/view?usp=drive_link)
 ------------------------------------------------------------------------
 
 ## 📚 Citation
