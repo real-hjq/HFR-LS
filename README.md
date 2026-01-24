@@ -29,9 +29,9 @@ paper):
 
 ![Sample frames from HFR-LS](assets/HFR-LS_samples.png)
 
-This figure illustrates diverse content covering: - Camera motion and
-static scenes\
-- Low to high spatial complexity\
+This figure illustrates diverse content covering: 
+- Camera motion and static scenes
+- Low to high spatial complexity
 - Low to high temporal activity
 
 ------------------------------------------------------------------------
