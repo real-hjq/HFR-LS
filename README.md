@@ -31,9 +31,8 @@ paper):
 
 Once you upload the figure image into the repository, include it as:
 
-``` markdown
+
 ![Sample frames from HFR-LS](assets/HFR-LS_samples.png)
-```
 
 This figure illustrates diverse content covering: - Camera motion and
 static scenes\
