@@ -27,11 +27,6 @@ standardized viewing conditions.
 Sample frames from the HFR-LS dataset (corresponding to Fig.1 in the
 paper):
 
-    assets/HFR-LS_samples.png
-
-Once you upload the figure image into the repository, include it as:
-
-
 ![Sample frames from HFR-LS](assets/HFR-LS_samples.png)
 
 This figure illustrates diverse content covering: - Camera motion and
