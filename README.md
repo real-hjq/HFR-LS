@@ -57,9 +57,9 @@ and **Temporal Information (TI)** according to ITU-T P.910.
 Each source video is encoded using **H.264 (x264)** at fixed 1080p
 resolution under realistic live-streaming constraints.
 
--   **Target Bitrates:** 5, 7, 10, 15 Mbps\
--   **Frame Rates:** 30, 60, 120 fps\
--   **Total Representations per Source:** 12\
+-   **Target Bitrates:** 5, 7, 10, 15 Mbps
+-   **Frame Rates:** 30, 60, 120 fps
+-   **Total Representations per Source:** 12
 -   **Total Processed Videos:** 32 × 12 = **384 clips**
 
 ### Encoding Ladder
@@ -83,19 +83,19 @@ Frame rate down-conversion is performed via frame dropping.
 
 ## 👥 Subjective Study
 
--   **Protocol:** Single-stimulus with hidden reference\
--   **Scale:** Continuous quality scale \[0--100\]\
+-   **Protocol:** Single-stimulus with hidden reference
+-   **Scale:** Continuous quality scale \[0--100\]
 -   **Participants:** 30 naïve subjects (after outlier removal: 26
-    valid)\
--   **Display:** 120 Hz calibrated monitor (ITU-R BT.500 compliant)\
+    valid)
+-   **Display:** 120 Hz calibrated monitor (ITU-R BT.500 compliant)
 -   **Viewing distance:** \~1.5H
 
 ### Subjective Scores
 
--   **MOS** collected for each video\
--   **DMOS** computed relative to corresponding reference\
--   DMOS range: **0 -- 47**\
--   Mean DMOS: **8.57**\
+-   **MOS** collected for each video
+-   **DMOS** computed relative to corresponding reference
+-   DMOS range: **0 -- 47**
+-   Mean DMOS: **8.57**
 -   Inter-subject consistency: **PLCC ≈ 0.91**
 
 All subjective scores are provided with the dataset.
@@ -136,8 +136,11 @@ All subjective scores are provided with the dataset.
 ## 📥 Download
 
 Dataset available at:
+
     Test videos: [Google Drive](https://drive.google.com/file/d/13FkO-KrlbtRxYOyHj5UxsKv6CvP9PBis/view?usp=sharing)
+    
     Reference videos: [Google Drive](https://drive.google.com/file/d/1KEj2mgn0RyfQrnstTyR_Pf34SB89kfuS/view?usp=drive_link)
+    
 ------------------------------------------------------------------------
 
 ## 📚 Citation
