@@ -1,9 +1,11 @@
-# HFR-LS: High Frame Rate Live Streaming Dataset
 
-<center>
-📥 Test videos: [Google Drive](https://drive.google.com/file/d/13FkO-KrlbtRxYOyHj5UxsKv6CvP9PBis/view?usp=sharing)
-Reference videos: [Google Drive](https://drive.google.com/file/d/1KEj2mgn0RyfQrnstTyR_Pf34SB89kfuS/view?usp=drive_link)
-</center>
+#   HFR-LS: High Frame Rate Live Streaming Dataset
+
+<p align="center">
+    <font size='4'>
+        Test Videos: <a href="https://drive.google.com/file/d/13FkO-KrlbtRxYOyHj5UxsKv6CvP9PBis/view?usp=sharing" target="_blank">Google Drive</a> • Reference Videos: <a href="https://drive.google.com/file/d/1KEj2mgn0RyfQrnstTyR_Pf34SB89kfuS/view?usp=drive_link" target="_blank">Google Drive</a>
+    </font>
+</p>
 
 ## 📖 Overview
 
@@ -32,7 +34,9 @@ standardized viewing conditions.
 Sample frames from the HFR-LS dataset (corresponding to Fig.1 in the
 paper):
 
-![Sample frames from HFR-LS](assets/HFR-LS_samples.png)
+<p align="left">
+    <img src="assets/HFR-LS_samples.png" width="700">
+</p>
 
 This figure illustrates diverse content covering: 
 - Camera motion and no camera motion
