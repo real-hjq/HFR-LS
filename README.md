@@ -1,5 +1,9 @@
 # HFR-LS: High Frame Rate Live Streaming Dataset
 
+📥 Download Test videos: [Google Drive](https://drive.google.com/file/d/13FkO-KrlbtRxYOyHj5UxsKv6CvP9PBis/view?usp=sharing)
+    
+Reference videos: [Google Drive](https://drive.google.com/file/d/1KEj2mgn0RyfQrnstTyR_Pf34SB89kfuS/view?usp=drive_link)
+
 ## 📖 Overview
 
 **HFR-LS (High Frame Rate Live Streaming Dataset)** is a
@@ -90,16 +94,6 @@ Frame rate down-conversion is performed via frame dropping.
 -   **Display:** 120 Hz calibrated monitor (ITU-R BT.500 compliant)
 -   **Viewing distance:** \~1.5H
 
-### Subjective Scores
-
--   **MOS** collected for each video
--   **DMOS** computed relative to corresponding reference
--   DMOS range: **0 -- 47**
--   Mean DMOS: **8.57**
--   Inter-subject consistency: **PLCC ≈ 0.91**
-
-All subjective scores are provided with the dataset.
-
 ------------------------------------------------------------------------
 
 ## 📊 Key Findings Enabled by HFR-LS
@@ -111,26 +105,6 @@ All subjective scores are provided with the dataset.
     bitrate.
 -   Existing VQA models struggle with varying frame rate conditions.
 
-------------------------------------------------------------------------
-
-## 📂 Dataset Structure
-
-    HFR-LS/
-    ├── metadata/
-        ├── SI_TI.csv
-        └── content_info.csv
-        └── HFR-LS_samples.png
-
-------------------------------------------------------------------------
-
-## 📥 Download
-
-Dataset available at:
-
-Test videos: [Google Drive](https://drive.google.com/file/d/13FkO-KrlbtRxYOyHj5UxsKv6CvP9PBis/view?usp=sharing)
-    
-Reference videos: [Google Drive](https://drive.google.com/file/d/1KEj2mgn0RyfQrnstTyR_Pf34SB89kfuS/view?usp=drive_link)
-    
 ------------------------------------------------------------------------
 
 ## 📚 Citation
