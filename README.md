@@ -1,5 +1,9 @@
+<div align="center">
+  
+<h1>  HFR-LS: High Frame Rate Live Streaming Dataset
 
-#   HFR-LS: High Frame Rate Live Streaming Dataset
+</div>
+
 
 <p align="center">
     <font size='4'>
