@@ -1,9 +1,9 @@
 # HFR-LS: High Frame Rate Live Streaming Dataset
 
----
+<center>
 📥 Test videos: [Google Drive](https://drive.google.com/file/d/13FkO-KrlbtRxYOyHj5UxsKv6CvP9PBis/view?usp=sharing)
 Reference videos: [Google Drive](https://drive.google.com/file/d/1KEj2mgn0RyfQrnstTyR_Pf34SB89kfuS/view?usp=drive_link)
----
+</center>
 
 ## 📖 Overview
 
