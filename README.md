@@ -15,6 +15,8 @@
 </p>
 
 
+------------------------------------------------------------------------
+
 ## 📖 Overview
 
 **HFR-LS (High Frame Rate Live Streaming Dataset)** is a
