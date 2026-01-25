@@ -74,7 +74,7 @@ resolution under realistic live-streaming constraints.
 ### FFmpeg Encoding Command
 
 ``` bash
-ffmpeg -f rawvideo -s:v 1920x1080 -r 120 -pix_fmt yuv420p -i input.yuv        -r <fps> -c:v libx264 -preset fast -tune zerolatency        -b:v <bitrate> -an output.mp4
+ffmpeg -f rawvideo -s:v 1920x1080 -r 120 -pix_fmt yuv420p -i input.yuv -r <fps> -c:v libx264 -preset fast -tune zerolatency -b:v <bitrate> -an output.mp4
 ```
 
 Frame rate down-conversion is performed via frame dropping.
