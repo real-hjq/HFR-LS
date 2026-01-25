@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-**HFR-LS (High Frame Rate Live Streaming Dataset)** is a large-scale
+**HFR-LS (High Frame Rate Live Streaming Dataset)** is a
 subjective video quality dataset designed to study the perceptual
 trade-offs between **compression strength and frame rate under
 bitrate-constrained live streaming scenarios**.
@@ -15,7 +15,7 @@ This dataset accompanies the paper:
 > *IEEE International Conference on Acoustics, Speech, and Signal
 > Processing (ICASSP), 2026*
 
-HFR-LS provides high-quality source videos and systematically encoded
+HFR-LS provides high-quality reference videos and systematically encoded
 representations at multiple bitrates and frame rates, together with
 **subjective Difference Mean Opinion Scores (DMOS)** collected under
 standardized viewing conditions.
@@ -30,7 +30,7 @@ paper):
 ![Sample frames from HFR-LS](assets/HFR-LS_samples.png)
 
 This figure illustrates diverse content covering: 
-- Camera motion and static scenes
+- Camera motion and no camera motion
 - Low to high spatial complexity
 - Low to high temporal activity
 
@@ -41,8 +41,8 @@ This figure illustrates diverse content covering:
 -   **32 high-quality source sequences**
 -   Originally captured at **120 fps**
 -   Converted to **1920×1080, YUV 4:2:0, 8-bit**
--   Duration: **5 seconds per clip**
--   Content sources:
+-   Duration: **5 seconds**
+-   Source sequences:
     -   22 from **BVI-HFR**
     -   5 from **UVG**
     -   5 from **LIVE-YT-HFR**
