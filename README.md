@@ -1,7 +1,5 @@
 <div align="center">
-  
 <h1>  HFR-LS: High Frame Rate Live Streaming Dataset
-
 </div>
 
 
@@ -10,6 +8,12 @@
         Test Videos: <a href="https://drive.google.com/file/d/13FkO-KrlbtRxYOyHj5UxsKv6CvP9PBis/view?usp=sharing" target="_blank">Google Drive</a> • Reference Videos: <a href="https://drive.google.com/file/d/1KEj2mgn0RyfQrnstTyR_Pf34SB89kfuS/view?usp=drive_link" target="_blank">Google Drive</a>
     </font>
 </p>
+
+
+<p align="center">
+    <img src="assets/HFR-LS_samples.png" width="700">
+</p>
+
 
 ## 📖 Overview
 
@@ -33,22 +37,6 @@ standardized viewing conditions.
 
 ------------------------------------------------------------------------
 
-## 🖼️ Dataset Preview
-
-Sample frames from the HFR-LS dataset (corresponding to Fig.1 in the
-paper):
-
-<p align="left">
-    <img src="assets/HFR-LS_samples.png" width="700">
-</p>
-
-This figure illustrates diverse content covering: 
-- Camera motion and no camera motion
-- Low to high spatial complexity
-- Low to high temporal activity
-
-------------------------------------------------------------------------
-
 ## 🎬 Source Content
 
 -   **32 high-quality source sequences**
@@ -59,6 +47,10 @@ This figure illustrates diverse content covering:
     -   22 from **BVI-HFR**
     -   5 from **UVG**
     -   5 from **LIVE-YT-HFR**
+-   Content diversity: 
+    - Camera motion and no camera motion
+    - Low to high spatial complexity
+    - Low to high temporal activity
 
 Content diversity is characterized using **Spatial Information (SI)**
 and **Temporal Information (TI)** according to ITU-T P.910.
@@ -100,7 +92,7 @@ Frame rate down-conversion is performed via frame dropping.
 -   **Scale:** Continuous quality scale \[0--100\]
 -   **Participants:** 30 naïve subjects (after outlier removal: 26
     valid)
--   **Display:** 120 Hz calibrated monitor (ITU-R BT.500 compliant)
+-   **Display:** 120 Hz calibrated monitor
 -   **Viewing distance:** \~1.5H
 
 ------------------------------------------------------------------------
