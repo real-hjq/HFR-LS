@@ -64,12 +64,12 @@ resolution under realistic live-streaming constraints.
 
 ### Encoding Ladder
 
-  Bitrate   Frame Rates
-  --------- -------------------
-  5 Mbps    30 / 60 / 120 fps
-  7 Mbps    30 / 60 / 120 fps
-  10 Mbps   30 / 60 / 120 fps
-  15 Mbps   30 / 60 / 120 fps
+  |Bitrate |  Frame Rates|
+  |---------| -------------------|
+  |5 Mbps   | 30 / 60 / 120 fps|
+  |7 Mbps   | 30 / 60 / 120 fps|
+  |10 Mbps  | 30 / 60 / 120 fps|
+  |15 Mbps  | 30 / 60 / 120 fps|
 
 ### FFmpeg Encoding Command
 
