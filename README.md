@@ -124,14 +124,6 @@ Frame rate down-conversion is performed via frame dropping.
 
 ------------------------------------------------------------------------
 
-## 📧 Contact
-
-**Jiaqi He**\
-Department of Computer Science, City University of Hong Kong\
-Email: jiaqhe5-c@my.cityu.edu.hk
-
-------------------------------------------------------------------------
-
 ## 🏁 License
 
 This dataset is released for **research purposes only**.\
