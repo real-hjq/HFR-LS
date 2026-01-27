@@ -25,14 +25,6 @@ subjective video quality dataset designed to study the perceptual
 trade-offs between **compression strength and frame rate under
 bitrate-constrained live streaming scenarios**.
 
-This dataset accompanies the paper:
-
-> **Subjective Evaluation of Frame Rate in Bitrate-Constrained Live
-> Streaming**\
-> Jiaqi He, Zhengfang Duanmu, Kede Ma\
-> *IEEE International Conference on Acoustics, Speech, and Signal
-> Processing (ICASSP), 2026*
-
 HFR-LS provides high-quality reference videos and systematically encoded
 representations at multiple bitrates and frame rates, together with
 **subjective Difference Mean Opinion Scores (DMOS)** collected under
