@@ -5,7 +5,8 @@
 
 <p align="center">
     <font size='4'>
-        Test Videos: <a href="https://drive.google.com/file/d/13FkO-KrlbtRxYOyHj5UxsKv6CvP9PBis/view?usp=sharing" target="_blank">Google Drive</a> • Reference Videos: <a href="https://drive.google.com/file/d/1KEj2mgn0RyfQrnstTyR_Pf34SB89kfuS/view?usp=drive_link" target="_blank">Google Drive</a>
+        Test Videos: <a href="https://drive.google.com/file/d/1PfeZLoEmiahCCGdChC6dJfYGhsRvjyso/view?usp=sharing" target="_blank">Google Drive</a> • 
+        Reference Videos: <a href="https://drive.google.com/file/d/1Rbe4d1smo-0uyu2ToLtJ27S5zH2lXhYx/view?usp=sharing" target="_blank">Google Drive</a>
     </font>
 </p>
 
