@@ -4,8 +4,7 @@
 
 <p align="center">
     <a href="https://arxiv.org/abs/2601.19776">
-    <img src="https://img.shields.io/badge/arXiv-2601.19776-b31b1b.svg" />
-    </a>
+    <img src="https://img.shields.io/badge/arXiv-2601.19776-b31b1b.svg" /></a>
     <img src="https://img.shields.io/badge/dataset-HFR--LS-brightgreen.svg" />
     <img src="https://img.shields.io/badge/license-Research--Only-blue.svg" />
     <img src="https://img.shields.io/badge/ICASSP-2026-orange.svg" />
